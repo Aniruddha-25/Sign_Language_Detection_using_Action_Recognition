@@ -1,7 +1,7 @@
 # Sign Language Detection using Action Recognition
 
 ## Description
-This project implements a sign language detection system using action recognition techniques. It leverages computer vision and deep learning to identify and classify sign language gestures from video input, enabling real-time translation of sign language into text.
+### This project implements a sign language detection system using action recognition techniques. It leverages computer vision and deep learning to identify and classify sign language gestures from video input, enabling real-time translation of sign language into text.
 
 ## Features
 - Real-time sign language gesture detection
@@ -28,8 +28,16 @@ This project implements a sign language detection system using action recognitio
 
 
 5. Run the application:
+   
+   To Create a Training Model.
+   Note :- Run This Program if there is no model file in  the folder name ````models\ASL.h5````
    ````
-   python main.py
+   python src/train_asl_model.py
+   ````
+   
+   Run the Program to Detect American Sign Language
+   ````
+   python src\detect_signs.py
    ````
 
 7. Follow the on-screen instructions to start detecting sign language gestures from your webcam 
