@@ -1,14 +1,14 @@
 # Sign Language Detection using Action Recognition
 
 ## Description
-### This project implements a sign language detection system using action recognition techniques. It leverages computer vision and deep learning to identify and classify sign language gestures from video input, enabling real-time translation of sign language into text.
+### This project implements a sign language detection system using action recognition techniques. It leverages computer vision and deep learning to identify and classify sign language gestures from Camera input, enabling real-time translation of sign language into text.
 
 ## Features
-- Real-time sign language gesture detection
-- Action recognition using deep learning models
-- User-friendly interface for video input
-- Support for multiple sign language gestures
-- Easy-to-extend for additional gestures
+- Real-Time Sign Language Gesture Detection
+- Action Recognition using Deep Learning Models
+- User-friendly Interface for Camera Input
+- Support for Multiple Sign Language Gestures
+- Easy to Extend for Additional Gestures
 
 ## Technologies Used
 - Python
